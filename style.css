@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: seashell;
+}
+img{
+    margin: auto;
+    display: block;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+ol{
+list-style: square;
+}
